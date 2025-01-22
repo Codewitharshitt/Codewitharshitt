@@ -1,3 +1,4 @@
+![logo](https://github.com/Codewitharshitt/Codewitharshitt/blob/main/LOGO%201.jpeg)
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
